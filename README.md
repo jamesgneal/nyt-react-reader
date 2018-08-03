@@ -1,5 +1,6 @@
 ![NYT React Reader screenshot](https://firebasestorage.googleapis.com/v0/b/personal-portfolio-d3899.appspot.com/o/Screen%20Shot%202018-07-27%20at%202.48.39%20PM.png?alt=media&token=acf0fae7-6592-4eb7-b678-e61c693176a5 "NYT React Reader screenshot")
 # New York Times React Reader
+Live: https://arcane-earth-20456.herokuapp.com/
 ### Challenge - Create a full stack MERN web app that uses the New York Times API to find and save articles
 I created a new React-based rendition of the New York Times Article Search application. This assignment required me to create React components, work with helper/util functions, and utilize the React mounting lifecycle to query and display articles based on user searches. I also used Node, Express and MongoDB so that users can save articles to read later.
 #### Skills Used
